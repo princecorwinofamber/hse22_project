@@ -16,3 +16,7 @@
 Всего кластеров 1704.  
 Гистограмма кластеров по кол-ву разных геномов в кластере:
 ![image](https://user-images.githubusercontent.com/25819950/173413155-ffb30cf3-3d5d-4e95-a9a9-59b613daaaab.png)
+
+
+google colab:
+![](https://colab.research.google.com/drive/1GobvF3jGPt9uFQ6ZAdRPApBFDfOM1c6X?usp=sharing)
