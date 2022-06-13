@@ -19,4 +19,4 @@
 
 
 google colab:
-![](https://colab.research.google.com/drive/1GobvF3jGPt9uFQ6ZAdRPApBFDfOM1c6X?usp=sharing)
+[](https://colab.research.google.com/drive/1GobvF3jGPt9uFQ6ZAdRPApBFDfOM1c6X?usp=sharing)
