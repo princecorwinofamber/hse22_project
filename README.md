@@ -41,9 +41,13 @@ google colab:
 ![image](https://user-images.githubusercontent.com/25819950/173441951-acb951e2-e9f9-445a-be9a-458a8f703f2b.png)
 
 Множественное белковое выравнивание для кластера 2:  
+![image](https://user-images.githubusercontent.com/25819950/173442405-1e6eaaff-e4d5-408f-a153-2fe603f7344f.png)
 
 Множественное белковое выравнивание для кластера 3:  
+![image](https://user-images.githubusercontent.com/25819950/173442506-aba59f85-e355-4f7a-957a-6b12725d32f6.png)
 
 Множественное белковое выравнивание для кластера 4:  
+![image](https://user-images.githubusercontent.com/25819950/173442654-d5400af9-6d7c-4d3f-8d69-6c923b7e1759.png)
 
 Множественное белковое выравнивание для кластера 5:  
+![image](https://user-images.githubusercontent.com/25819950/173442828-32a6d29e-4b05-4759-9593-01191a05925d.png)
