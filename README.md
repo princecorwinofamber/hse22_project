@@ -11,3 +11,8 @@
 Распределение zh-score
 
 ![image](https://user-images.githubusercontent.com/25819950/173190419-045dc42b-fcaa-458e-b93c-615ae262572a.png)
+
+
+Всего кластеров 1704.  
+Гистограмма кластеров по кол-ву разных геномов в кластере:
+![image](https://user-images.githubusercontent.com/25819950/173413155-ffb30cf3-3d5d-4e95-a9a9-59b613daaaab.png)
