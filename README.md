@@ -4,6 +4,7 @@
 |  | Methanocaldococcus bathoardescens  | Methanocaldococcus fervensr | Methanocaldococcus infernus | Methanocaldococcus jannaschii | Methanocaldococcus vulcanius |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | количество аннотированных генов | 1716 | 1655 | 1499 | 1890 | 1778 |
+| суммарная длина аннотированных генов | 2899928 | 2746716 | 2490976 | 3103456 | 3006890 |
 | количество участков Z-dna | 1300 | 1281 | 646 | 1586 | 1797 |
 | обзая длина участков Z-dna | 12252 | 12088 | 5920 | 14932 | 16750 |
 
